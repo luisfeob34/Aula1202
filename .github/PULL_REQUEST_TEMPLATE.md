@@ -10,6 +10,6 @@ Selecione opções:
 - [ ] Bug Fix
 - [ ] Nova Feature
 - [ ] Alteração de feature existentes
-- [ ] Documentação
+- [X] Documentação
 - [ ] Refratoração
 - [ ] Outro (descrever
